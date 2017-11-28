@@ -12,4 +12,5 @@ def first_challenge
        :heroine => {},
        :heroine_friends => []
    }
+ }
 end
